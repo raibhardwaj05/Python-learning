@@ -1,7 +1,7 @@
 # Who will pay the bill
 import random
 
-friends = ["Rudra", "Bhardwaj", "Tanu", "Huh"]
+friends = ["Rudra", "Bhardwaj", "Aryan", "Vibhas"]
 
 # mathod 1
 index = random.randint(0, 4)
