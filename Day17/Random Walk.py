@@ -1,4 +1,3 @@
-import colorsys
 import random
 import turtle as t
 
