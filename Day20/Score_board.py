@@ -54,4 +54,4 @@ class Score(Turtle):
         elif self.right_score < self.left_score :
             self.write(f"Player1 Won!", align=Align, font=Font)
         else:
-            self.write(f"Game Over!", align=Align, font=Font)
+            self.write(f"Draw!", align=Align, font=Font)
