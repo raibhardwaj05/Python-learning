@@ -38,7 +38,7 @@ screen.onkey(key="q", fun= game_over)
 # Game Logic
 game_is_on = True
 while game_is_on:
-    time.sleep(0.17) # speed of the ball
+    time.sleep(0.08) # speed of the ball
     screen.update()
     ball.movement()
 
